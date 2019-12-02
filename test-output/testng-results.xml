@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-22T17:00:48 IST" name="Default suite" finished-at="2019-11-22T17:00:53 IST" duration-ms="4591">
+    <groups>
+    </groups>
+    <test started-at="2019-11-22T17:00:48 IST" name="Default test" finished-at="2019-11-22T17:00:53 IST" duration-ms="4591">
+      <class name="reports.Smapless">
+        <test-method signature="testahs()[pri:0, instance:reports.Smapless@48524010]" started-at="2019-11-22T17:00:48 IST" name="testahs" finished-at="2019-11-22T17:00:53 IST" duration-ms="4574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testahs -->
+      </class> <!-- reports.Smapless -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
